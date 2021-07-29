@@ -3,7 +3,7 @@
 #### Genskill Bootcamp 2021 
 
 #### Deependu Prasad
-
+#### Deployed to heroku at https://todoappdeependu.herokuapp.com/
 <hr>
 
 Procedure to be followed <b><i>(these steps can be skipped by executing run.sh as given at the end)</b></i>
