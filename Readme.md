@@ -6,7 +6,7 @@
 #### Deployed to heroku at https://todoappdeependu.herokuapp.com/
 <hr>
 
-Procedure to be followed <b><i>(these steps can be skipped by executing run.sh as given at the end)</b></i>
+Procedure to be followed while running locally<b><i>(these steps can be skipped by executing run.sh as given at the end)</b></i>
 <br>
 First create a local copy of the repository by executing(expecting git to be installed locally on the device):
 <br>
