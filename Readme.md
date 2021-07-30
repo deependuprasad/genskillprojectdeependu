@@ -54,9 +54,7 @@ bash run.sh
 <br>
 <img src="https://github.com/deependuprasad/genskillprojectdeependu/blob/main/Screenshots/Screenshot%20from%202021-07-28%2021-38-54.png" alt="Screenshot 3">
 <br>
-<img src="https://github.com/deependuprasad/genskillprojectdeependu/blob/main/Screenshots/Screenshot%20from%202021-07-28%2021-47-30.png" alt="Screenshot 4">
+<img src="https://github.com/deependuprasad/genskillprojectdeependu/blob/main/Screenshots/Screenshot%20from%202021-07-28%2021-38-56.png" alt="Screenshot 4">
 <br>
-<img src="https://github.com/deependuprasad/genskillprojectdeependu/blob/main/Screenshots/Screenshot%20from%202021-07-28%2021-38-56.png" alt="Screenshot 5">
-<br>
-<img src="https://github.com/deependuprasad/genskillprojectdeependu/blob/main/Screenshots/Screenshot%20from%202021-07-28%2021-52-55.png" alt="Screenshot 6">
+<img src="https://github.com/deependuprasad/genskillprojectdeependu/blob/main/Screenshots/Screenshot%20from%202021-07-28%2021-52-55.png" alt="Screenshot 5">
 <br>
